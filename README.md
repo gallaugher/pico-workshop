@@ -24,3 +24,5 @@ https://www.adafruit.com/product/3893
 https://www.adafruit.com/product/169
 
 Wiring diagram
+<img width="1473" height="762" alt="image" src="https://github.com/user-attachments/assets/d3f7fb43-e723-45a6-a11e-b94739cb58c4" />
+
