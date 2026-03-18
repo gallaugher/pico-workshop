@@ -1,6 +1,7 @@
-Video showing staff how to assemble parts & configure a pico: https://youtu.be/wPocDIYyqwo
 Google Slides at:
 https://bit.ly/pico-workshop
+
+Video showing staff how to assemble parts & configure a pico: https://youtu.be/wPocDIYyqwo
 
 Components:
 - Raspberry Pi Pico 2W (any Pico series will work - pre-soldered headers)
